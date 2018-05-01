@@ -1,0 +1,24 @@
+.container.main {
+    margin-top: 7.0em;
+}
+
+
+.icon {
+    font-size: inherit;
+} 
+
+
+#logo {
+    font-size: 1.5em;
+}
+
+
+#delete {
+    display: inline;
+}
+
+
+#maincont {
+    padding-top: 20px;
+}
+
